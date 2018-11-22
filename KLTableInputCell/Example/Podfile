@@ -1,0 +1,7 @@
+use_frameworks!
+target 'KLTableInputCell_Tests' do
+  pod 'KLTableInputCell', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end

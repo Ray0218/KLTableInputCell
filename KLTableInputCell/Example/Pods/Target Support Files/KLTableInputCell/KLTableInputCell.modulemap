@@ -1,0 +1,6 @@
+framework module KLTableInputCell {
+  umbrella header "KLTableInputCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
